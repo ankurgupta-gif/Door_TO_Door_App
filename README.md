@@ -1,17 +1,1 @@
- Door-To-Door-App – It is a Full-Stack Web Application
-– Key Features Demonstrated:
-– For Customers:
-– Implemented Product Carousel: Developed an engaging carousel feature to showcase various products to users,
-enhancing the shopping experience.
-– Added Product Filtering Sorting: Enabled advanced filtering and sorting options to simplify product discovery
-and improve user navigation.
-– Categorized Products: Organized products into categories for a more structured and user-friendly interface.
-– For Admins:
-– Manage Category: Create, update, and delete Category with ease through a user-friendly interface.
 
-Made With By
-1)Ankur Gupta
-2) Sanjay Kumar
-3) Deepak Kumar
-4) Shiv Kumar 
-5)Devendra Singh
